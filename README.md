@@ -6,8 +6,8 @@ I'm a Computer Science student passionate about learning and exploring the world
 
 - **Programming Languages**: C, Python
 - **Data Science**: pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning**: TensorFlow (learning)
-- **Tools**: Visual Studio Code
+- **Machine Learning**: scikit-learn (learning)
+- **Tools**: Visual Studio Code, Jupyter, Dev C++
 - **Databases**: PostgreSQL
 - **Web Development**: HTML, CSS, JavaScript (currently exploring)
 - **Other**: Algorithms & Data Structures, Statistics, GitHub
