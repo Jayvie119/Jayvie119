@@ -21,6 +21,7 @@ I'm a Computer Science student passionate about learning and exploring the world
 ## 📂 Notable Projects
 
 - **Diabetes Prediction Model**
+- **QwikiNote**
 
 <h3 align="center">WORKING ON IT!🔥</h3>
 <p align="center">
