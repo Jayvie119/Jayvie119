@@ -4,13 +4,13 @@ I'm a Computer Science student passionate about learning and exploring the world
 
 ## 💻 Skills & Technologies
 
-- **Programming Languages**: C, Python
+- **Programming Languages**: C, Python, Typescript, Solidity
 - **Data Science**: pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning**: scikit-learn (learning)
 - **Tools**: Visual Studio Code, Jupyter, Dev C++
 - **Databases**: PostgreSQL
 - **Web Development**: HTML, CSS, JavaScript (currently exploring)
-- **Other**: Algorithms & Data Structures, Statistics, GitHub
+- **Other**: Algorithms & Data Structures, Blockchain, GitHub, Web3
 
 ## 🚀 Current Learning
 
