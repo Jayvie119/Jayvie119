@@ -45,4 +45,4 @@ I am looking for opportunities to contribute to AI-driven startups or Machine Le
 -----
 
 ## 🐍 Contribution Pulse
-![snake gif](https://github.com/jayviegillaco/jayviegillaco/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg)
