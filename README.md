@@ -1,49 +1,48 @@
-# Hello, I'm Jayvie Lorenz Enorme 👋
+# Hello, I'm Jayvie Lorenz Enorme o7o7
 
-I'm a Computer Science student passionate about learning and exploring the world of Data Science and Machine Learning. Currently, I'm honing my skills in **C** and diving deeper into **Python**. I am excited to apply my knowledge and work on data-driven projects.
-
-## 💻 Skills & Technologies
-
-- **Programming Languages**: C, Python, Typescript, Solidity
-- **Data Science**: pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning**: scikit-learn (learning)
-- **Tools**: Visual Studio Code, Jupyter, Dev C++
-- **Databases**: PostgreSQL
-- **Web Development**: HTML, CSS, JavaScript (currently exploring)
-- **Other**: Algorithms & Data Structures, Blockchain, GitHub, Web3
-
-## 🚀 Current Learning
-
-- **Data Science & Machine Learning**: Building a solid foundation in data wrangling, data visualization, and machine learning algorithms.
-- **Python & Libraries**: Continuing to develop proficiency with Python, focusing on data manipulation with **pandas** and **NumPy**.
-- **Projects**: I am working on building my **portfolio** through small and medium-sized data science and machine learning projects to demonstrate my growing skills.
-
-## 📂 Notable Projects
-
-- **Diabetes Prediction Model**
-- **QwikiNote**
-
-<h3 align="center">WORKING ON IT!🔥</h3>
-<p align="center">
-  <img src="https://tenor.com/search/coding-gifs"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/AI_ENGINEER-ML_OPS-00ffcc?style=for-the-badge&logo=ai&logoColor=black" />
+  <img src="https://img.shields.io/badge/WEB3-SECURITY-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/PUP-COMP_SCI-red?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </p>
 
-## 🌱 How I Learn
+> **Bridging raw data and actionable intelligence through RAG and LLM Orchestration.**
 
-- **Kaggle**: I participate in Kaggle competitions and explore datasets to enhance my machine learning knowledge.
-- **Online Courses**: I regularly take courses on platforms like Udemy and Google Skills Boost to sharpen my skills.
-- **Research Projects**: I work on personal and academic projects to apply what I've learned.
+I build intelligent systems that bridge the gap between raw data and actionable intelligence. Currently specializing in Retrieval-Augmented Generation (RAG) and Large Language Model (LLM) orchestration to create context-aware AI applications.
 
-## 📚 Get in Touch
+- **Currently building**: A web3 autonomous security layer that converts complex blockchain data into human-readable intent, with joint use of RAG System and Truth Registry Layer.
+- **Focus**: Optimizing vector embeddings, prompt engineering, and data scraping & pipelining.
+- **Education**: Computer Science @Polytechnic University of the Philippines.
+  
+-----
+## Technical Skills
 
-- Feel free to explore my repositories, fork them, and contribute!
-- If you're working on a similar project or just want to chat about tech, don't hesitate to reach out.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Core AI/ML** | `PyTorch` `Scikit-learn` `LangChain` `HuggingFace` |
+| **LLM & RAG** | `OpenAI API` `Llama 3` `ChromaDB` `Vector Embeddings` |
+| **Web3 & Dev** | `Solidity` `TypeScript` `Python` `SQL (Postgres/MySQL)` |
+| **Data & Cloud**| `Pandas` `NumPy` `AWS SageMaker` `FastAPI` |
 
-## 📫 Contact
 
-- **Email**: jayviegillaco527@gmail.com
-- **LinkedIn**: www.linkedin.com/in/jayvieenorme
+## Featured Project/s
+### **[RAG-Integrated Knowledge Base](https://github.com/Jayvie119/rag_system)**
+*A sophisticated engine designed to query private datasets with surgical precision.*
+- **The Problem:** Eliminating LLM hallucinations in technical documentation.
+- **The Solution:** Implemented semantic search over local PDF/Markdown using **ChromaDB** and **Recursive Character Splitting**.
+- **Stack:** TypeScript, Python, LangChain, OpenAI.
 
----
+## **Current Focus**:
+- **Advanced RAG**: Exploring "Agentic RAG" using LangGraph for multi-step reasoning.
+- **MLOps**: Learning to containerize models using Docker and deploy via FastAPI.
+- **Deep Learning**: Diving into Transformer architectures and fine-tuning open-source models.
 
-Thank you for visiting my profile! Let's connect and build something amazing together! 🚀
+## **Let's Collaborate!!**
+I am looking for opportunities to contribute to AI-driven startups or Machine Learning research teams. If you’re working on something that pushes the boundaries of Generative AI, let’s talk!
+
+- 📫 **Email:** [lorenzgillaco119@gmail.com](mailto:lorenzgillaco119@gmail.com)
+- 🔗 **LinkedIn:** [jayvieenorme](https://www.linkedin.com/in/jayvieenorme)
+-----
+
+## 🐍 Contribution Pulse
+![snake gif](https://github.com/jayviegillaco/jayviegillaco/blob/output/github-contribution-grid-snake.svg)
