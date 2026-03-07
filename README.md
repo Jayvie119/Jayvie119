@@ -27,7 +27,7 @@ I build intelligent systems that bridge the gap between raw data and actionable 
 
 ## Featured Project/s
 ### **[RAG-Integrated Knowledge Base](https://github.com/Jayvie119/rag_system)**
-*A sophisticated engine designed to query private datasets with surgical precision.*
+*A sophisticated engine designed to query private datasets with precision.*
 - **The Problem:** Eliminating LLM hallucinations in technical documentation.
 - **The Solution:** Implemented semantic search over local PDF/Markdown using **ChromaDB** and **Recursive Character Splitting**.
 - **Stack:** TypeScript, Python, LangChain, OpenAI.
