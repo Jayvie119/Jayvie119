@@ -32,10 +32,16 @@ I build intelligent systems that bridge the gap between raw data and actionable 
 - **The Solution:** Implemented semantic search over local PDF/Markdown using **ChromaDB** and **Recursive Character Splitting**.
 - **Stack:** TypeScript, Python, LangChain, OpenAI.
 
+### **[FinTrack: Finance Manager](https://github.com/Jayvie119/fintrack)**
+*FinTrack is a secure, serverless financial dashboard designed for users who value simplicity and privacy.*
+- Built with a focus on security, it leverages modern database patterns to ensure complete data isolation for every user. 
+- Helps tracking financial activities, providing insights into your spending and saving patterns.
+- 
 ## **Current Focus**:
 - **Advanced RAG**: Exploring "Agentic RAG" using LangGraph for multi-step reasoning.
 - **MLOps**: Learning to containerize models using Docker and deploy via FastAPI.
 - **Deep Learning**: Diving into Transformer architectures and fine-tuning open-source models.
+- **Personal Portfolio**
 
 ## **Let's Collaborate!!**
 I am looking for opportunities to contribute to AI-driven startups or Machine Learning research teams. If you’re working on something that pushes the boundaries of Generative AI, let’s talk!
